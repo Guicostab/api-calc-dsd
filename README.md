@@ -80,5 +80,5 @@ moda: Get -
       `{
           "values1": 1, 
           "values2": 2,
-          "values3": 3
+          "values3": 1
         }`
