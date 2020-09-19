@@ -13,55 +13,55 @@ Rotas:
     - Entrada realizada por JSON.
     - Exemplo: 
       `{
-          "values1": 10, 
-          "values2": 2
+          "value1": 10, 
+          "value2": 2
         }`
 
 /subtrair: Get - 
     - Entrada realizada por JSON.
     - Exemplo: 
       `{
-          "values1": 10, 
-          "values2": 2
+          "value1": 10, 
+          "value2": 2
         }`
 
 /dividir: Get -
     - Entrada realizada por JSON.
     - Exemplo: 
       `{
-          "values1": 10, 
-          "values2": 2
+          "value1": 10, 
+          "value2": 2
         }`
 
 multiplicar: Get - 
     - Entrada realizada por JSON.
     - Exemplo: 
       `{
-          "values1": 10, 
-          "values2": 2
+          "value1": 10, 
+          "value2": 2
         }`
 
 raizquadrada: Get - 
     - Entrada realizada por JSON.
     - Exemplo: 
       `{
-          "values1": 64
+          "value1": 64
         }`
 
 potencia: Get - 
     - Entrada realizada por JSON.
     - Exemplo: 
       `{
-          "values1": 10, 
-          "values2": 2
+          "value1": 10, 
+          "value2": 2
         }`
 
 mediaaritmetica: Get - 
     - Entrada realizada por JSON.
     - Exemplo: 
       `{
-          "values1": 1, 
-          "values2": 2,
+          "value1": 1, 
+          "value2": 2,
           "value3": 3
         }`
 
@@ -69,8 +69,8 @@ mediaharmonica: Get -
     - Entrada realizada por JSON.
     - Exemplo: 
       `{
-          "values1": 1, 
-          "values2": 2,
+          "value1": 1, 
+          "value2": 2,
           "value3": 3
         }`
 
@@ -78,7 +78,7 @@ moda: Get -
     - Entrada realizada por JSON.
     - Exemplo: 
       `{
-          "values1": 1, 
-          "values2": 2,
-          "values3": 1
+          "value1": 1, 
+          "value2": 2,
+          "value3": 1
         }`
