@@ -33,7 +33,7 @@ Rotas:
           "value2": 2
         }`
 
-multiplicar: Get - 
+/multiplicar: Get - 
     - Entrada realizada por JSON.
     - Exemplo: 
       `{
@@ -41,14 +41,14 @@ multiplicar: Get -
           "value2": 2
         }`
 
-raizquadrada: Get - 
+/raizquadrada: Get - 
     - Entrada realizada por JSON.
     - Exemplo: 
       `{
           "value1": 64
         }`
 
-potencia: Get - 
+/potencia: Get - 
     - Entrada realizada por JSON.
     - Exemplo: 
       `{
@@ -56,7 +56,7 @@ potencia: Get -
           "value2": 2
         }`
 
-mediaaritmetica: Get - 
+/mediaaritmetica: Get - 
     - Entrada realizada por JSON.
     - Exemplo: 
       `{
@@ -65,7 +65,7 @@ mediaaritmetica: Get -
           "value3": 3
         }`
 
-mediaharmonica: Get - 
+/mediaharmonica: Get - 
     - Entrada realizada por JSON.
     - Exemplo: 
       `{
@@ -74,7 +74,7 @@ mediaharmonica: Get -
           "value3": 3
         }`
 
-moda: Get - 
+/moda: Get - 
     - Entrada realizada por JSON.
     - Exemplo: 
       `{
